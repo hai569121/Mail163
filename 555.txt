@@ -2,7 +2,11 @@ test123
 5
 5
 5
+<<<<<<< Updated upstream
 6
 6
 6
 666666
+=======
+77777
+>>>>>>> Stashed changes
